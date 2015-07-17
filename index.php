@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Brocoli</title>
-	<link rel="stylesheet" href="css/brocoli.css">
 </head>
 <body>
 
